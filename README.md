@@ -29,10 +29,14 @@ Fetch API para realizar requisições ao backend.
 ## Como Executar o Projeto
 
 ### Clone o repositório:
-git clone <URL_DO_REPOSITORIO>
+   ```bash
+   https://github.com/Pedrobarizon04/ConsultaCep.git
+   ```
 
 ### Acesse o diretório do projeto:
-cd consulta-cep
+  ```bash
+  cd ConsultaCep
+  ```
 
 ### Abra o arquivo index.html no navegador:
 Você pode abrir diretamente o arquivo index.html em qualquer navegador moderno para visualizar o projeto.
